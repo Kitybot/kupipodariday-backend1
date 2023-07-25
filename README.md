@@ -1,1 +1,3 @@
-https://github.com/Kitybot/kupipodariday-backend1.git
+# КупиПодариДай
+
+Стартеркит проекта разработки бэкенд сервиса вишлистов КупиПодариДай
